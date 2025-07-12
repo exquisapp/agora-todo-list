@@ -1,4 +1,4 @@
-## Setup Locally
+## Local setup
 
 ### Installation
 
